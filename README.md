@@ -26,7 +26,7 @@ I had a debate with a friend about using **Kivy + KivyMD** vs **Flutter** for a 
 ## How to View
 
 1. Open the `index.html` file in a browser.
-2. Make sure images are in the correct `img/` folder.
+2. Make sure images are in the correct folder.
 3. Link your `main.css` for styles and optional JS for interaction.
 
 ##  Related Links
